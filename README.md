@@ -17,7 +17,7 @@ El conversor está organizado en cuatro categorías principales:
 | **Masa** | Kilogramos a Libras, Gramos a Onzas. |
 | **Almacenamiento Digital** | Megabytes a Gigabytes, Gigabytes a Terabytes. |
 
-## 🛠️ Cómo se Instala
+## Cómo se Instala
 
 El proyecto es ligero y no necesita librerías externas ni gestores de paquetes.
 
@@ -57,7 +57,7 @@ El programa funciona completamente a través de la interfaz de línea de comando
 | [Joshua Anwa Rodríguez Castellanos] | Desarrollador Principal y Arquitectura. |
 
 
-## 📜 Licencia Elegida (Parte 2)
+##  Licencia Elegida
 
 Este proyecto está liberado bajo la licencia **[MIT License]**.
 
